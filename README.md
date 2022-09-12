@@ -22,7 +22,7 @@
 
     - Analise de dados com pandas 🐼
     - Me aprofundando em python 🐍
-    - Iniciando em Kotlin
+    - Iniciando em Flutter
     
 ##
 
