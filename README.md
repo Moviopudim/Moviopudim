@@ -20,9 +20,8 @@
 
 ### 📖 O que estou aprendendo:
 
-    - Analise de dados com pandas 🐼
-    - Me aprofundando em python 🐍
-    - Iniciando em Flutter
+    - Python
+    - ou qualquer outra coisa que der vontade
     
 ##
 
