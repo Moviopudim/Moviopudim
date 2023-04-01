@@ -7,6 +7,8 @@
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
     <img src="https://img.icons8.com/color/48/000000/unity.png"/>
+    <img src="[https://img.icons8.com/color/48/000000/unity.png](https://img.icons8.com/fluency/256/flutter.png)"/>
+    
 </div>
  
 ##
